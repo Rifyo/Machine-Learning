@@ -1,2 +1,2 @@
 # Machine-Learning
-My projects in machine learning during my spare time
+Links to learning resources in machine learning.
